@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Grid</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="header">
+        <div class="header-left">
+            <h1>Alex's Portfolio</h1>
+        </div>
+        <nav class="header-right">
+            <a href="#resume">Resume</a>
+            <a href="#about">About Me</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Filter Options -->
+    <div class="filter-container">
+        <button class="filter-button all" onclick="filterImages('all')">All</button>
+        <button class="filter-button software" onclick="filterImages('software')">Software</button>
+        <button class="filter-button websites" onclick="filterImages('websites')">Websites</button>
+    </div>
+
+    <div class="grid-container">
+        <!-- First Image -->
+        <div class="grid-item software">
+            <a href="test.zip" download="test.zip">
+                <img src="Sta1k.png" alt="Image 1">
+                <div class="overlay">
+                    <p class="text">Image Description</p>
+                    <button class="get-button">GET</button>
+                </div>
+            </a>
+        </div>
+
+        <!-- Second Image -->
+        <div class="grid-item websites">
+            <a href="https://justperfecthome.com/">
+                <img src="JustPerfectHome.png" alt="Image 2">
+                <div class="overlay">
+                    <p class="text">Another Description</p>
+                    <button class="get-button">Visit</button>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
