@@ -1,44 +1,29 @@
-# vCard - Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+![Logo](https://i.postimg.cc/pTmJBLYX/roadmap-image.png)
+##
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+- [ n/a ] [CCNA certification](https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccna.html)
 
-## Demo
+- [ n/a ] [CISSP certification](https://www.isc2.org/certifications/cissp)
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+- [ n/a ] [CCD certification](https://cyberdefenders.org/blue-team-training/courses/certified-cyberdefender-certification/)
 
-## Prerequisites
+- [ n/a ] Java understanding **(google free certs)* [(use roadmap)](https://roadmap.sh/java)
 
-Before you begin, ensure you have met the following requirements:
+- [ half done ] Python understanding **(google free certs)* [(use roadmap)](https://roadmap.sh/python)
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- [ n/a ] SQL understanding **(google free certs)* [(use roadmap)](https://roadmap.sh/sql)
 
-## Installing vCard
+- [ n/a ] [CPTS certification](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
 
-To install **vCard**, follow these steps:
+- [ n/a ] php understanding **(google free certs)* [(use roadmap)](https://roadmap.sh/php)
 
-Linux and macOS:
+- [ n/a ] C understanding **(google free certs)* [(use roadmap)](https://github.com/Koubae/Programming-CookBook/blob/master/Programming%20Languages/C/roadmap.md)
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+- [ n/a ] [OSEP certification](https://www.offsec.com/courses/pen-300/)
 
-Windows:
+- [ n/a ] [OSCP certification](https://www.offsec.com/courses/pen-200/)
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+- [ n/a ] [OSEE certification](https://www.offsec.com/courses/exp-401/)
 
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-MIT
+- [ n/a ] [CWEE certification](https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert)
