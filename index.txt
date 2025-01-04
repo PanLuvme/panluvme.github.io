@@ -137,13 +137,13 @@ WordPress
 Portfolio
 
 All
-Web design
+Research
 Applications
 Web development
 
 Select category
 All
-Web design
+Research
 Applications
 Web development
 
@@ -157,7 +157,7 @@ Web development
 
 alt = fundo
 Fundo
-Web design
+Research
 
 alt = brawlhalla
 Brawlhalla
@@ -165,11 +165,11 @@ Applications
 
 alt = dsm.
 DSM.
-Web design
+Research
 
 alt = metaspark
 MetaSpark
-Web design
+Research
 
 alt = summary
 Summary
