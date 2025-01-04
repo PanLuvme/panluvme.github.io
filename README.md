@@ -1,5 +1,5 @@
 
-![Logo](https://i.postimg.cc/pTmJBLYX/roadmap-image.png)
+![Logo](https://i.postimg.cc/SsGkDmy3/roadmap-image.png)
 ##
 
 - [ n/a ] [CCNA certification](https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccna.html)
